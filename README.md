@@ -1,1 +1,1 @@
-# PROJ_4301
+# COMP 4301 Computer Version Project
