@@ -36,8 +36,8 @@ for sub_folder in os.listdir(folder):
 print(files_train,files_validation)
 
 img_width, img_height = 48, 48
-train_data_dir = "train_data/train"
-validation_data_dir = "train_data/test"
+train_data_dir = "data/train_data/train"
+validation_data_dir = "data/train_data/test"
 nb_train_samples = files_train
 nb_validation_samples = files_validation
 batch_size = 32
