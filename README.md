@@ -1,4 +1,4 @@
-# COMP 4301 Computer Version Project
+# Computer Version Project: Parking lot detection
 
 
 ---
